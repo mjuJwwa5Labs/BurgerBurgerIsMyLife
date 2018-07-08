@@ -1,0 +1,6 @@
+itemType,name,basePrice,breadRollTypeValue,meatTypeValue,additionLimit
+Hamburger,5,WHITE,BEEF,4
+Healthy Burger,6,BROWN_RYE,BEEF,6
+Deluxe Hamburger,12,WHITE,BEEF,0
+Fish Burger,7,WHITE,FISH,4
+Veggie Burger,5,RICE,SOY_CUTLET,4
